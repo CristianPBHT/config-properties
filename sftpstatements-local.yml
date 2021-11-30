@@ -2,7 +2,7 @@ sftp:
   config:
     remoteDirectory: /upload/in/statements/
     localDirectory: tmp/
-    host: sftp
+    host: localhost
     user: tester
     password: password
     port: 22

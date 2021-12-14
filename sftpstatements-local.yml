@@ -31,3 +31,4 @@ application:
       process: STATEMENTS
       validation-required: true
       topic: Transformation1
+      file-format: MT940

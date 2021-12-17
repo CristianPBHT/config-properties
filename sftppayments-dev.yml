@@ -27,7 +27,7 @@ s3:
 application:
   config:
     reader:
-      integration-code: ECS-ERP
+      client-code: ECS-ERP
       process: PAYMENTS
       validation-required: true
       topic: PAYMENTS-ROUTER
